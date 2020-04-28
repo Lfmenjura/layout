@@ -1,0 +1,40 @@
+h1{
+	text-align: center;
+}
+.alto{
+	height: auto;
+}
+p{
+	text-align: justify;
+}
+.color{
+	background-color:  #330066;
+}
+.imge{
+	 width:80%;
+	  height:50%;
+	  
+}
+.im{
+	 width:40%;
+	  height:40%;
+}
+.im1{
+	width:auto;
+	  height:auto;
+
+}
+nav{
+	background-color: #330066;
+	margin-top: -15px;
+	padding: 20px;
+	
+}
+.avan{
+	width:80%;
+
+}
+
+
+
+			
